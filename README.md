@@ -21,7 +21,7 @@ You can always [invite](https://bit.ly/Musicium) the Bot to your Server if you w
 - `radio <RADIOSTATION>`--    *Play a Radiostation*
 - `remove`              --    *Remove song from the queue*
 - `resume`              --    *Resume currently playing music*
-- `search <TITEL | URL>`--    *Search and select videos to play*
+- `search <TITLE | URL>`--    *Search and select videos to play*
 - `shuffle`             --    *Shuffles the current Queue!*
 - `skip`                --    *Skip the currently playing song*
 - `skipto <QUEUE NUM.>` --    *Skip to the selected queue number*
